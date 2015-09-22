@@ -1,6 +1,6 @@
 # Different way to do
 
-A little experiment that explores the usage of SVG line drawing animation
+A little experiment that explores the usage of SVG line drawing animation.
 
 ## License
 
